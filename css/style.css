@@ -1,0 +1,77 @@
+body{
+	margin:0px;
+	padding:0px;
+    background-image: url("../1.jpg");
+    background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+h1{
+	color:White;
+	text-align:center;
+}
+video{
+	display:block;
+	margin-top:15px;
+}
+a{
+	padding:12px;
+	background-color:lightgreen;
+	text-decoration:none;
+	font-size:18px;
+	font-weight:bold;
+	
+}
+trnbtn{
+
+    background-color: aqua;
+    border:none;
+    padding:10px;
+    margin-right: 5px;
+}
+table {
+    margin-top:8px;
+    border-collapse: collapse;
+	margin-left:15%;
+	margin-bottom:10%;
+	color:white;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+    padding:12px;
+  }
+  #tbltrtotal{
+    color:red;
+	font-weight:1000;
+  }
+  #trainingdiv{
+    display:inline-block;
+    margin-left: 8px;
+    position:absolute;
+    top:50;
+  }
+  #caminput{
+  background-color:palegreen;
+  display:inline-block;
+  margin-left: 18px;
+  width:89%;
+  position:relative;
+  top:0;
+  
+  }
+  button:hover{
+    cursor: pointer;
+    background-color: gray;
+  }
+  #savebtn{
+	  padding:10px;
+	  background-color:red;
+	  color:white;
+	  border:none;
+  }
+  
+  p{
+	  background-color:lightgreen;
+	  text-align:center;
+  }
